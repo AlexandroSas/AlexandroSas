@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello World - Alexandro Sas
+I'm an information engineer, currently working for Novaservice SRL. 
+360° Artist. Photographer & Videomaker. Always looking for new Adventures that can level me up. 
+Currently residing in Aprilia(LT), Italy.
 
-<!--
-**AlexandroSas/AlexandroSas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How to reach me 📫 - Socialnetwork Links
+* Website: https://alexandrosas.github.io/home/
+* LinkedIn: https://www.linkedin.com/in/alexandro-sas-09aba11b1
+* Twitter: https://twitter.com/AlexandroSas98
+* Instagram: https://www.instagram.com/alexandro.sas/
+* YouTube: https://www.youtube.com/channel/UCFz_mZXOTDt9hBtlzXCSluA
 
-Here are some ideas to get you started:
+## Graduation Marks
+* Bachelor Degree : 106/110
+* Highschool : 100/100
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+* Coding :computer:
+* Music Production :headphones:
+* Play Piano :musical_keyboard:
+* Photography :camera:
+* Draw :art:
+* Play Football :soccer:
+* Calisthenics & Work Out :weight_lifting:
+* Film & Tv Series :film_strip:
