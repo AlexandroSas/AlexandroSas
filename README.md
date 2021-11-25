@@ -1,4 +1,4 @@
-# Hello World - Alexandro Sas
+# Alexandro Sas
 I'm an information engineer, currently working for Novaservice SRL. 
 360° Artist. Photographer & Videomaker. Always looking for new Adventures that can level me up. 
 Currently residing in Aprilia(LT), Italy.
